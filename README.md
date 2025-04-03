@@ -1,12 +1,15 @@
-# 💻 Adriano Jorge
+# 📚 Adriano Jorge
 
-My name is Adriano Jorge. I'm studying DevOps and have experience in infrastructure and cloud services.
+Só um profissinal na área de infraestrutura e Azure Cloud, estou estudando DevOps pretendo evoluir na carreira de programação com perfil em Full-Stack Developer
+</br>
+
+
 
 <p>
     <a href="https://github.com/adrixjorge?tab=followers">
-         <img alt="followers" title="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/adrixjorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/adrixjorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
       <a href="https://github.com/adrixjorge?tab=repositories&sort=stargazers"> 
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adrixjorge?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="total stars" title="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/adrixjorge?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
 </p>
 
 ### 🧰 Linguagens e Tecnologias
@@ -32,9 +35,12 @@ My name is Adriano Jorge. I'm studying DevOps and have experience in infrastruct
 ### 📊 Estatísticas
 
 <p>
-<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=dark&include_all_commits=true&locale=pt-pt" />
-<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=darcula&include_all_commits=true&locale=pt-pt" />
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
+
+</br>
+</br>
 
 
 
