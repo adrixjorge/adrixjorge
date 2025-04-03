@@ -31,20 +31,12 @@ My name is Adriano Jorge. I'm studying DevOps and have experience in infrastruct
 
 ### 📊 Estatísticas
 
-<img 
-align="left" 
-height="200px" 
-alt="GitHub Stats"
-style="padding-right: 10px;"
-src="(https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=dark&include_all_commits=true&locale=pt-pt)" 
-/>
+<p>
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=dark&include_all_commits=true&locale=pt-pt" />
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</p>
 
-<img 
-align="left" 
-height="200px" 
-alt="GitHub Stats"
-style="padding-right: 10px;"
-src="(https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7)"
-/>
+
+
 
 
