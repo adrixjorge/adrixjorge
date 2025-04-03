@@ -35,13 +35,10 @@ Só um profissional na área de infraestrutura e Azure Cloud, estou estudando De
 ### 📊 Estatísticas
 
 <p>
-<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=darcula&include_all_commits=true&locale=pt-pt" />
-    
-<img align="right" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=darcula&include_all_commits=true&locale=pt-pt" />    
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=darcula&custom_title=Tecnologias&langs_count=7"/>
 </p>
 
-</br>
-</br>
 
 
 
