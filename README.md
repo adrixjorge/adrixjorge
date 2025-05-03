@@ -1,6 +1,6 @@
 # 📚 Adriano Jorge
 
-Só um profissional na área de infraestrutura e Azure Cloud, estou estudando DevOps pretendo evoluir na carreira de programação com perfil em Full-Stack Developer
+Só um profissional na área de infraestrutura e Azure Cloud, estou estudando DevOps pretendo evoluir na carreira como DevOps Engineer
 </br>
 
 
