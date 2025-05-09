@@ -7,9 +7,9 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 <p>
     <a href="https://github.com/adrixjorge?tab=followers">
-         <img alt="followers" title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/adrixjorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
+         <img alt="followers" title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/adrixjorge?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/adrixjorge?tab=repositories&sort=stargazers"> 
-        <img alt="total stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/adrixjorge?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
+        <img alt="total stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/adrixjorge?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/></a>
 </p>
 
 ### 🧰 Languages & Tools
