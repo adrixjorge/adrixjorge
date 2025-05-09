@@ -11,7 +11,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
       <a href="https://github.com/adrixjorge?tab=repositories&sort=stargazers"> 
         <img alt="total stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/adrixjorge?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/></a>
     <a href="https://www.linkedin.com/in/aejorge/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
 </p>
 
 ### 🧰 Languages & Tools
