@@ -20,7 +20,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 </br>
 
-### 🧰 Languages & Tools
+### 🧰 Tecnologies & Tools
 <p>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
@@ -30,6 +30,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 <img align="left" alt="AzureDevops" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </p>
 
 </br>
@@ -37,8 +38,8 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 ### 📊 Statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrixjorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrixjorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrixjorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrixjorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
