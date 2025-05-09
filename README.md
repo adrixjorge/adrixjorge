@@ -36,7 +36,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 <dev>
 <img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=darcula&include_all_commits=true&locale=us-en" />    
-<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=darcula&custom_title=Tenologies&langs_count=7"/>
+<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=darcula&custom_title=Tecnologies&langs_count=7"/>
 </dev>
 
 
