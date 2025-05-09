@@ -3,7 +3,7 @@
 Just a professional in the area of infrastructure and Azure Cloud, studying DevOps I intend to evolve in my career with the profile of DevOps Engineer.
 </br>
 
-
+## ❤ Social Media
 
 <p>
     <a href="https://github.com/adrixjorge?tab=followers">
@@ -17,6 +17,8 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
     <a href="https://x.com/adrixjorge" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo"  />
 </p>
+
+</br>
 
 ### 🧰 Languages & Tools
 <p>
@@ -32,10 +34,6 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 </br>
 
-</br>
-
----
-
 ### 📊 Statistics
 
 <div align="left">
@@ -43,6 +41,5 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrixjorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 
