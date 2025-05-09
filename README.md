@@ -27,19 +27,22 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 </p>
 
 </br>
+
 </br>
 
 ---
 
 ### 📊 Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrixjorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrixjorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <dev>
-<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrixjorge&show_icons=true&theme=darcula&include_all_commits=true&locale=us-en" />    
-<img align="left" height="200px" alt="GitHub Stats" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrixjorge&theme=darcula&custom_title=Tecnologies&langs_count=7"/>
+<img src="https://raw.githubusercontent.com/adrixjorge/adrixjorge/output/snake.svg" alt="Snake animation" />
 </dev>
-
-
-
 
 
 
