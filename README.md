@@ -41,9 +41,5 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 </div>
 
 
-<dev>
-<img src="https://raw.githubusercontent.com/adrixjorge/adrixjorge/output/snake.svg" alt="Snake animation" />
-</dev>
-
 
 
