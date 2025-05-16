@@ -20,7 +20,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 </br>
 
-### 🧰 Tecnologies & Tools
+### 📈 Tecnologies & Tools
 <p>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
