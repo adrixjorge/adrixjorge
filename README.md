@@ -1,4 +1,4 @@
-# 📚 Adriano Jorge
+# 💻📚 Adriano Jorge
 
 Just a professional in the area of infrastructure and Azure Cloud, studying DevOps I intend to evolve in my career with the profile of DevOps Engineer.
 </br>
@@ -20,7 +20,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 </br>
 
-### 📈 Tecnologies & Tools
+### 🧰 Tecnologies & Tools
 <p>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
@@ -38,7 +38,7 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 
 </br>
 
-### 📊 Statistics
+### 📈 Statistics
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adrixjorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight&locale=en&hide_border=false" height="140" alt="stats graph"  />
