@@ -41,8 +41,8 @@ Just a professional in the area of infrastructure and Azure Cloud, studying DevO
 ### 📈 Statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrixjorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight&locale=en&hide_border=false" height="140" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrixjorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=midnight&hide_border=false" height="140" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adrixjorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight&locale=en&hide_border=false" height="140" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrixjorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=midnight&hide_border=false" height="140" alt="languages graph" />
 </div>
 
 
