@@ -1,6 +1,6 @@
 # 💻📚 Adriano Jorge
 
-Cloud, Computer and Virtulization Infrastructure Datacenter and Automatization.
+Cloud, Computer and Virtualization Infrastructure Datacenter and Automatization.
 </br>
 
 ## ❤ Social Media
