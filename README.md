@@ -1,6 +1,6 @@
 # 💻📚 Adriano Jorge
 
-Just a professional in the area of infrastructure and Azure Cloud, studying DevOps I intend to evolve in my career with the profile of DevOps Engineer.
+Cloud, Computer and Virtulization Infrastructure Datacenter and Automatization.
 </br>
 
 ## ❤ Social Media
